@@ -1,3 +1,4 @@
 # this is a description of git
 # this time is test git status
-# git is frss software  
+# git is frss software 
+# git has a mutable index called stage 
