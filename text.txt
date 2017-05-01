@@ -1,2 +1,3 @@
 # this is a description of git
-# this time is test git status 
+# this time is test git status
+# git is frss software  
